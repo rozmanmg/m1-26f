@@ -1,2 +1,2 @@
-# hw03
-Homework assignment 3, Fall 2026
+# m1
+Midterm 1 assignment 3, Fall 2026
